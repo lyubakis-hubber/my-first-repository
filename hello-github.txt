@@ -1,3 +1,6 @@
 Hello Github!
 
-modified this file in the local git repository
+modified this file ihe local git repository
+
+some rondom text here to show modification of the file in the local repository. Trying to create a conflict, as pulling some changes from the remote repository.
+
