@@ -1,3 +1,5 @@
 Hello Github!
 
 Manually resolved conflicting changes
+
+Changing this file locally again to push it to the Github remote.
